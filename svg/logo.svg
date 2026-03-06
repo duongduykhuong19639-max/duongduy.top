@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">DuyTop App Logo</title>
+  <desc id="desc">A rounded dark square with stylized D and smile arc.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#232f3e" />
+      <stop offset="100%" stop-color="#131a22" />
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="108" height="108" rx="24" fill="url(#g1)" />
+  <path d="M36 30h24c18 0 30 12 30 30s-12 30-30 30H36z" fill="#ff9900" />
+  <path d="M48 44h12c9 0 16 7 16 16s-7 16-16 16H48z" fill="#131a22" />
+  <path d="M30 78c16 10 42 10 60 0" fill="none" stroke="#ffd18a" stroke-width="6" stroke-linecap="round" />
+</svg>

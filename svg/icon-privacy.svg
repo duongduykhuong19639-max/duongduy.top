@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Privacy icon">
+  <path d="M32 6l22 8v16c0 13-8 24-22 28C18 54 10 43 10 30V14z" fill="#232f3e"/>
+  <rect x="24" y="26" width="16" height="14" rx="3" fill="#ff9900"/>
+  <path d="M28 26v-4a4 4 0 018 0v4" fill="none" stroke="#131a22" stroke-width="3"/>
+</svg>
